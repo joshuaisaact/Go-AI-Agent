@@ -33,3 +33,4 @@ The agent currently supports the following tools:
 - `read_file`: Reads the content of a file.
 - `list_files`: Lists files and directories in a path.
 - `edit_file`: Replaces a string in a file (use with caution!).
+- `ripgrep_search`: Searches for a regex pattern within files/directories using the `rg` command (ripgrep must be installed and in PATH).
